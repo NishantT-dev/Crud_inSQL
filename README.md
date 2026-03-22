@@ -1,4 +1,4 @@
-# CRUD (Backend in SQL)
+# Users CRUD (Backend in SQL)
 A simple Node.js + Express + MySQL application demonstrating basic CRUD (Create, Read, Update, Delete) operations.
 
 ## Features
@@ -6,7 +6,6 @@ A simple Node.js + Express + MySQL application demonstrating basic CRUD (Create,
 - Read all users
 - Update user details by ID
 - Delete user by ID
-- Input validation and error handling
 
 ## Request and Response
 
